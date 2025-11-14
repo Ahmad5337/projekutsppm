@@ -15,8 +15,6 @@ Aplikasi ini memungkinkan pengguna mencari cuaca berdasarkan nama kota, menampil
 
 ### 1. Clone atau download project
 ```sh
-    git clone <url-repo-kamu>
-    cd weather-app
     npm install
     npx expo start
 ```
